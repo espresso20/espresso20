@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @espresso20
-- ✨[www.adamroffler.com](business card)
+- ✨[business card](www.adamroffler.com)
 - ✨[www.cafflab.com](www.cafflab.com)
 - 👀 I’m interested in DevOps Engineering, and SRE
 - 🌱 I’m currently learning AWS Advanced Architecure, Kubernetes, and reading the google SRE handbook 
