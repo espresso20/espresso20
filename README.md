@@ -2,11 +2,6 @@
 - ✨[business card](www.adamroffler.com)
 - ✨[www.cafflab.com](www.cafflab.com)
 - 👀 I’m interested in DevOps Engineering, and SRE
-- 🌱 I’m currently learning AWS Advanced Architecure, Kubernetes, and reading the google SRE handbook 
-- 📫 How to reach me: [web.libera.chat](IRC) , DM my handle espresso20. #nwdevops or PM.
+- 🌱 I’m currently learning GOLANG, AWS Advanced Architecure, Kubernetes, and reading the google SRE handbook 
+- 📫 How to reach me: [web.libera.chat](IRC) , DM my handle espresso20. #nwdevops or PM on Discord at espresso.20
 
-
-<!---
-espresso20/espresso20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
